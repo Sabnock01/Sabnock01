@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sabnock 👋
 
-I'm a software engineer currently at [Doppler Protocol](https://doppler.lol) and I've worked in the cryptocurrency industry for a number of years now.
+I'm a software engineer at [Doppler](https://doppler.lol), a token launch platform built around customizable price discovery auctions. I've worked in the cryptocurrency industry for several years, including previous roles at [Yield](https://github.com/yieldprotocol/) and [Waterfall](https://github.com/waterfall-mkt).
 
 My main passions as of late are the Rust programming language, async runtimes, database internals, distributed systems, serverless computing, and Doppler of course.
 
@@ -13,7 +13,7 @@ My main passions as of late are the Rust programming language, async runtimes, d
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/ethereum-%23A1CAF1.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/ethereum-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
